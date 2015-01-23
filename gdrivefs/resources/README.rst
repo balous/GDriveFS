@@ -1,3 +1,5 @@
+|gitter|
+
 |donate|
 
 GDriveFS is an innovative *FUSE* wrapper for *Google Drive* developed under 
@@ -491,3 +493,7 @@ software, make sure you add the prefixing dot.
 .. |donate| image:: https://pledgie.com/campaigns/27265.png?skin_name=chrome
    :alt: Click here to lend your support to: Fund GDriveFS, the Open Source Google Drive FUSE Adapter and make a donation at pledgie.com !
    :target: https://pledgie.com/campaigns/27265
+
+.. |gitter| image:: https://badges.gitter.im/gitterHQ/gitter.png
+   :alt: Gitter chat
+   :target: https://gitter.im/gitterHQ/gitter
