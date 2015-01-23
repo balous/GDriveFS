@@ -496,4 +496,4 @@ software, make sure you add the prefixing dot.
 
 .. |gitter| image:: https://badges.gitter.im/gitterHQ/gitter.png
    :alt: Gitter chat
-   :target: https://gitter.im/gitterHQ/gitter
+   :target: https://gitter.im/dsoprea/GDriveFS
